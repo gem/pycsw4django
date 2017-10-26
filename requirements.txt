@@ -1,0 +1,4 @@
+Django==1.11.6
+lxml==3.6.2
+sqlalchemy==1.1.14
+-e git+git@github.com:geopython/pycsw.git@c182204295c91ed5c51b98fee6ef2569f5937095#egg=pycsw
